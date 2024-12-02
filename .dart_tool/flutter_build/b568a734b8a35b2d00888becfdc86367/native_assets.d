@@ -1,0 +1,1 @@
+ D:\\Flutter_project\\fashionistaa\\.dart_tool\\flutter_build\\b568a734b8a35b2d00888becfdc86367\\native_assets.yaml: 
